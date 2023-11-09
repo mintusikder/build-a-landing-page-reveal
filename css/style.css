@@ -10,3 +10,7 @@
     background: url(../resource/image/carousel/5.jpg);
     height: 100vh;
 }
+.claint-img{
+    width: 160px;
+    justify-content: space-between;
+}
